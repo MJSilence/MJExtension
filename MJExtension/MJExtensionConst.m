@@ -6,6 +6,7 @@
 /**
  *  成员变量类型（属性类型）
  */
+//NS
 NSString *const MJPropertyTypeInt = @"i";
 NSString *const MJPropertyTypeShort = @"s";
 NSString *const MJPropertyTypeFloat = @"f";
